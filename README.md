@@ -1,4 +1,4 @@
-# back-end
+# Express typescript boilerplate
 
 ### npm install list
 
